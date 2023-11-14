@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7a2bba90d5da423bac91ae5d3ab9a0b9" Name="Diagram1">
+        <EntityTypeShape EntityType="P.net_DBModel.CHAIN" Width="1.5" PointX="0.875" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="P.net_DBModel.CONNECTION_SETTINGS" Width="1.625" PointX="2" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="P.net_DBModel.SERVER_INFO" Width="1.5" PointX="2.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="P.net_DBModel.sysdiagrams" Width="1.5" PointX="4.625" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="P.net_DBModel.USER_INFO" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
